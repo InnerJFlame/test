@@ -38,10 +38,6 @@ return PhpCsFixer\Config::create()
         ],
         'explicit_indirect_variable' => true,
         'fully_qualified_strict_types' => true,
-        'header_comment' => [
-            'header' => $header,
-            'location' => 'after_open',
-        ],
         'logical_operators' => true,
         'multiline_comment_opening_closing' => true,
         'multiline_whitespace_before_semicolons' => [
