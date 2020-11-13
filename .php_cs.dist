@@ -14,8 +14,16 @@ return PhpCsFixer\Config::create()
     ->setRiskyAllowed(true)
     ->setRules([
         '@PSR2' => true,
-        'strict_param' => true,
-        'array_syntax' => ['syntax' => 'short'],
-        'yoda_style' => false,
+        '@PhpCsFixer' => true,
+        '@PhpCsFixer:risky' => true,
+        '@Symfony' => true,
+        '@Symfony:risky' => true,
+        '@PHP70Migration' => true,
+        '@PHP70Migration:risky' => true,
+        '@PHP71Migration' => true,
+        '@PHP71Migration:risky' => true,
+        '@PHP73Migration' => true,
+        '@PHPUnit60Migration:risky' => true,
+        '@PHPUnit75Migration:risky' => true,
     ])
     ->setFinder($finder);
