@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99c3f93f-4a61-4310-b786-9fcd1ea10323" name="Default Changelist" comment="" />
+    <list default="true" id="99c3f93f-4a61-4310-b786-9fcd1ea10323" name="Default Changelist" comment="о">
+      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +36,8 @@
       <option name="presentableId" value="Default" />
       <updated>1605126317441</updated>
       <workItem from="1605126318501" duration="1231000" />
+      <workItem from="1605289669187" duration="31000" />
+      <workItem from="1605289714341" duration="315000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605126426164</created>
@@ -55,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605126882435</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="init">
+      <created>1605288446849</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605288446849</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,10 +78,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2505" y="88" key="CommitChangelistDialog2" timestamp="1605126881980">
+    <state x="2505" y="88" key="CommitChangelistDialog2" timestamp="1605288446413">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2505" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605126881980" />
+    <state x="2505" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605288446413" />
     <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1605126325050">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -78,9 +90,9 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605126403812" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605126886803">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605288455024">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605126886803" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605288455024" />
   </component>
 </project>
