@@ -58,11 +58,7 @@ jobs:
         strategy:
             matrix:
                 php:
-                    - '7.1'
-                    - '7.2'
-                    - '7.3'
                     - '7.4'
-                    - 'rc'
                 include:
                     - php: '7.4'
                       coverage: true
