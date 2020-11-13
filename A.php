@@ -8,6 +8,6 @@ class A{
             echo  11;
         }
         $c = "dd" . A::class;
-        return $a . $b;
+        return $a.$b;
     }
 }
