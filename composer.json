@@ -4,5 +4,8 @@
     "license": "MIT",
     "require": {
         "twig/twig": "^2.0"
+    },
+    "require-dev": {
+        "symfony/phpunit-bridge": "^5.1"
     }
 }
