@@ -6,7 +6,11 @@ class A
     {
         if ('aa' == $a) {
             echo 11;
+        } else {
+
         }
+        $c = "dd";
+
         return $a . $b;
     }
 }
