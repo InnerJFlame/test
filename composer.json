@@ -1,4 +1,7 @@
 {
+    "name": "innerjflame/test",
+    "description": "dating",
+    "license": "MIT",
     "require": {
         "twig/twig": "^2.0"
     }

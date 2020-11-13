@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="99c3f93f-4a61-4310-b786-9fcd1ea10323" name="Default Changelist" comment="о">
-      <change afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    <list default="true" id="99c3f93f-4a61-4310-b786-9fcd1ea10323" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
   <component name="Git.Settings">
@@ -24,6 +26,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -37,7 +40,8 @@
       <updated>1605126317441</updated>
       <workItem from="1605126318501" duration="1231000" />
       <workItem from="1605289669187" duration="31000" />
-      <workItem from="1605289714341" duration="315000" />
+      <workItem from="1605289714341" duration="895000" />
+      <workItem from="1605290631270" duration="33000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1605126426164</created>
@@ -67,7 +71,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605288446849</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="о">
+      <created>1605290035439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605290035439</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,13 +86,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="о" />
+    <option name="LAST_COMMIT_MESSAGE" value="о" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2505" y="88" key="CommitChangelistDialog2" timestamp="1605288446413">
+    <state x="2642" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605290602576">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2505" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605288446413" />
+    <state x="2642" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605290602576" />
+    <state x="2505" y="88" key="CommitChangelistDialog2" timestamp="1605290034591">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2505" y="88" key="CommitChangelistDialog2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605290034591" />
     <state x="2714" y="443" key="NewPhpFileDialog" timestamp="1605126325050">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -90,9 +106,17 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605126403812" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605288455024">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1605290043486">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605288455024" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605290043486" />
+    <state x="2536" y="240" key="run.anything.popup" timestamp="1605289849697">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2536" y="240" key="run.anything.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605289849697" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605289849046">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605289849046" />
   </component>
 </project>
