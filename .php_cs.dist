@@ -2,10 +2,13 @@
 
 declare(strict_types=1);
 
+$excludes = [
+    'vendor',
+];
+
 $finder = PhpCsFixer\Finder::create()
     ->in(__DIR__)
-    ->exclude([])
-    ->append([]);
+    ->exclude($excludes);
 
 return PhpCsFixer\Config::create()
     ->setRiskyAllowed(true)
