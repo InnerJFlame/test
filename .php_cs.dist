@@ -16,5 +16,6 @@ return PhpCsFixer\Config::create()
         '@PSR2' => true,
         'strict_param' => true,
         'array_syntax' => ['syntax' => 'short'],
+        'yoda_style' => false,
     ])
     ->setFinder($finder);
