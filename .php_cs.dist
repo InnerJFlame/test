@@ -27,7 +27,7 @@ return PhpCsFixer\Config::create()
         '@PHPUnit75Migration:risky' => true,
         'concat_space' => ['spacing' => 'one'],
         'binary_operator_spaces' => [
-            'align_double_arrow' => true
+            'operator' => ['=>' => 'align'],
         ],
     ])
     ->setFinder($finder);
