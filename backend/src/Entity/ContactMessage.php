@@ -392,11 +392,7 @@ class ContactMessage
         return ContactMessageDevice::$choices[$this->device] ?? null;
     }
 
-    /**
-     * @param int|string $status
-     *
-     * @return bool
-     */
+
     public function equalStatus($status): bool
     {
         $choices = ContactMessageStatus::$choices;
