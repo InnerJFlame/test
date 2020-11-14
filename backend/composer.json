@@ -1,7 +1,6 @@
 {
     "name": "innerjflame/test",
     "description": "dating",
-    "license": "MIT",
     "type": "project",
     "license": "proprietary",
     "require": {
