@@ -37,5 +37,6 @@ return PhpCsFixer\Config::create()
         'no_superfluous_phpdoc_tags' => false,
         'yoda_style' => false,
         'phpdoc_order' => false,
+        'is_null' => false,
     ])
     ->setFinder($finder);
