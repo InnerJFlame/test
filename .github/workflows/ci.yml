@@ -10,6 +10,7 @@ jobs:
         steps:
             -   uses: actions/checkout@v2
             -   name: Validate composer.json and composer.lock
+                working-directory: ./backend
                 run: composer validate
             -   name: Cache Composer packages
                 id: composer-cache
