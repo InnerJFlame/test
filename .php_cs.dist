@@ -34,5 +34,6 @@ return PhpCsFixer\Config::create()
             ]
         ],
         'multiline_whitespace_before_semicolons' => ['strategy' => 'no_multi_line'],
+        'no_superfluous_phpdoc_tags' => false,
     ])
     ->setFinder($finder);
