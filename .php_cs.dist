@@ -38,5 +38,6 @@ return PhpCsFixer\Config::create()
         'yoda_style' => false,
         'phpdoc_order' => false,
         'is_null' => false,
+        'php_unit_fqcn_annotation' => false,
     ])
     ->setFinder($finder);
