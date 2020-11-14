@@ -39,5 +39,6 @@ return PhpCsFixer\Config::create()
         'phpdoc_order' => false,
         'is_null' => false,
         'php_unit_fqcn_annotation' => false,
+        'increment_style' => false,
     ])
     ->setFinder($finder);
